@@ -1,0 +1,4 @@
+tornado==6.2
+numpy==1.26.2
+opencv-python==4.5.4.58
+openvino==2024.1.0
